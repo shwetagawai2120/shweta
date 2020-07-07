@@ -1,3 +1,4 @@
 Python 3.7
 Instapy 0.6.9
-Chromedriver(version according to your chrome version)
+Chromedriver(version according to your chrome version) or
+geckodriver(version according to the firefox version)
